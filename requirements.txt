@@ -1,5 +1,4 @@
 flask
-tensorflow
 keras-ocr
 huggingface_hub
 argparse
