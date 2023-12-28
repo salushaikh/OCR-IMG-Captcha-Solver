@@ -1,5 +1,6 @@
 flask
 keras-ocr
 huggingface_hub
+tensorflow-cpu
 argparse
 uuid
