@@ -31,8 +31,8 @@ To run the project, ensure you have the following dependencies installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ocr-image-captcha-solver.git
-   cd ocr-image-captcha-solver
+   git clone https://github.com/salushaikh/OCR-IMG-Captcha-Solver.git
+   cd OCR-IMG-Captcha-Solver
    ```
 
 2. **Install Python Dependencies:**
